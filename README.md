@@ -1,3 +1,9 @@
 # Aula_Unisociesc_Programacao_Calculadora
 > Status do projeto: Finalizado ✅
-  - Calcula as seguintes operações: adição, subtração, multiplicação, divisão...
+## Descrição do projeto
+  - O projeto consiste no desenvolvimento de uma calculadora que realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão. 
+> Liguagem de programação utilizada: Java
+### Recursos necessários:
+- Ambiente de desenvolvimento integrado (IDE) para programação.
+- Linguagem de programação adequada para o desenvolvimento da aplicação (neste caso Java).
+
