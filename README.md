@@ -1,3 +1,3 @@
 # Aula_Unisociesc_Programacao_Calculadora
-## Descrição do projeto
+> Status do projeto: Finalizado ✅
   - Calcula as seguintes operações: adição, subtração, multiplicação, divisão...
