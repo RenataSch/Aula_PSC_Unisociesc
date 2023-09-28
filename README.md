@@ -1,6 +1,6 @@
 # Aula_PSC_Unisociesc
 <div>
-<img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=%20FINALIZADO&color=BLUE&style=for-the-badge_blank"></a>
+<img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=%20FINALIZADO&color=RED&style=for-the-badge_blank"></a>
    </div>
    
 ## Descrição do projeto
